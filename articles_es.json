@@ -1,0 +1,15 @@
+{
+    "language": "es",
+    "articles": [
+        {
+            "title": "Un día típico de la THUCST",
+            "article": "Todos nos encanta el curso de {{1}}. El curso es tan {{2}} que {{3}} atentamente en clase. Eso da mucho beneficio a nuestro {{4}} y trabajo.",
+            "hints": ["El nombre de un curso", "Un adjetivo, masculino y singular", "Un verbo, en NOSOTROS o NOSOTRAS conjugación", "Una actividad, sustantivo o verbo infinitivo"]
+        },
+        {
+            "title": "Es verdad",
+            "article": "Es verdad, pero {{1}} es un nuevo juego de aventura de un mundo libre que he creado {{2}}. Ese juego se produce en un mundo imaginario que se llama「{{3}}」, donde {{5}}, que ha elegido {{4}}, se proporcionará「{{6}}」, para que guíe el poder de {{7}}. Jugarás como un papel de misterio que se llama「{{8}}」, encontrarás {{10}} de personalidades muy diversas con libertad en {{9}}, pelearás los {{11}} y con ellos, encontrarás {{12}} y en el mismo momento, comprenderás「{{13}}」.",
+            "hints": ["Un nombre", "Una persona o una compañía", "Un lugar", "Un nombre", "Un nombre", "Una abilidad", "Alguna palabra", "Un nombre", "Un lugar", "Un nombre, masculino plural", "Un nombre", "Algo que es difícil para encontrar", "Alguna palabra"]
+        }
+    ]
+}

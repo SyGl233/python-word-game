@@ -1,0 +1,15 @@
+{
+    "language": "en",
+    "articles": [
+        {
+            "title": "A Common Day of THUCST",
+            "article": "We all love the course {{1}}. The course is so {{2}} that everyone {{3}} attentively at class. It is really beneficial to our {{4}} and career.",
+            "hints": ["A course name", "An adjective", "A verb, third personal singular", "An activity that you like, a noun or a gerund"]
+        },
+        {
+            "title": "You're right",
+            "article": "You're right, but {{1}} is a brand new open-world adventure game developed by {{2}}. The game takes place in a fantasy world called「{{3}}」, where {{5}}, chosen by {{4}}, will be granted with「{{6}}」, to guide the power of {{7}}. You will play as a mysterious role called「{{8}}」, encounter {{10}} with various personalities and abilities freely in {{9}}, beat the {{11}} with them, find the {{12}} and meanwhile, find out the true secret of「{{13}}」gradually.",
+            "hints": ["A fansy name", "A person or a company", "A fansy place", "A fansy name", "A fansy name", "A fansy ability", "Any fansy word", "A fansy name", "A fansy place", "A fansy name, plural", "A fansy name", "Something hard to find", "Any fansy word"]
+        }
+    ]
+}
